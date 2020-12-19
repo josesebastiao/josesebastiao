@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  
+  <br>
+   Saiba mais sobre mim...
+  </details>
