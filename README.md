@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> Saiba mais sobre mim...</b> <i>(click to expand!)</i> </summary>
   
   <br>
-   Saiba mais sobre mim...
+   Sou Angolano
   </details>
