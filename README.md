@@ -5,13 +5,16 @@
 <p>Sou angolano, moro no Brasil a 8 anos formado em Lic. em computação quero ser um Dev Front End, tenho estudado para alcançar meu sonho. Entre em contato comigo pelas minhas redes sociais.</p>
 
 
-### :books: Estás são as minhas Stacks
+### :books: Essa é a minha trilha:
   
  - JavaScript
  - ReactJS
  - HTML5
  - CSS3 
  - Bootstrap
+ 
+ 
+ [![José Sebastião github stats](https://github-readme-stats.vercel.app/api?username=josesebastiao)](https://github.com/josesebastiao/github-readme-stats)
  
  <p>
 👯 Entre em contato! <a href="https://in.linkedin.com/in/jose-afonso-sebastiao">
