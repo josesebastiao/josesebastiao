@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesebastiao&hide=html&vue&theme=radical" alt="sebastiao" />
 
-<p>Sou angolano, moro no Brasil a 8 anos formado em Lic. em computação quero ser um Dev Front End, tenho estudado para alcançar meu sonho. Entre em contato comigo pelas minhas redes sociais.</p>
+<p>Dev FrontEnd em formação, tenho estudado para alcançar meu sonho. Entre em contato comigo pelas minhas redes sociais.</p>
 
 
 ### :books: Essa é a minha trilha:
