@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesebastiao&hide=html&vue&theme=radical" alt="sebastiao" />
 
-<p>Dev FrontEnd em formação, tenho estudado para alcançar meu sonho. Entre em contato comigo pelas minhas redes sociais.</p>
+<p>Dev FrontEnd em formação...</p>
 
 
 ### :books: Essa é a minha trilha:
