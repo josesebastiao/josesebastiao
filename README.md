@@ -1,4 +1,4 @@
-## <center> Hi seja bem vindo! 👋</center>
+## E aí, tudo beleza?? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
 <img src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="300" align="right">
 
