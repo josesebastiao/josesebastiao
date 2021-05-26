@@ -1,6 +1,6 @@
 ## E aí, tudo beleza?? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
-<img src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="300" align="right">
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesebastiao&hide=html&vue&theme=radical" alt="sebastiao" />
 
@@ -25,5 +25,5 @@
   <img align="left" alt="José Sebastião - Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
 </p>
- 
+ <img src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="300" align="right">
  
