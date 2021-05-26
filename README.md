@@ -4,6 +4,7 @@
 
 <p>Dev FrontEnd em formação...</p>
 
+<img src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="300" align="right">
 
 ### :books: Essa é a minha trilha:
   
